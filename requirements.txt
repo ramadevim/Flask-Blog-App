@@ -95,7 +95,7 @@ git-py==1.0.2
 gitdb2==2.0.6
 GitPython==3.0.2
 googleapis-common-protos==1.6.0
-gunicorn==19.3.0
+gunicorn==19.5.0
 html5lib==1.0.1
 httpie==1.0.2
 httplib2==0.13.0
