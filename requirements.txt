@@ -217,7 +217,7 @@ python-slugify==3.0.2
 python-utils==2.3.0
 python3-openid==3.1.0
 pytz==2019.1
-pywin32==225
+pywin32==301
 pywinpty==0.5.5
 PyYAML==5.1.1
 pyzmq==18.1.0
