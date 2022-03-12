@@ -169,7 +169,7 @@ phonenumbers==8.10.20
 pickle-mixin==1.0.2
 pickleshare==0.7.5
 pilkit==2.0
-Pillow==6.0.0
+Pillow==9.0.1
 pinax-blog==7.0.4
 pinax-images==3.0.1
 plotly==3.10.0
