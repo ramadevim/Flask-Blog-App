@@ -146,7 +146,7 @@ netaddr==0.7.19
 netifaces==0.10.9
 networkx==2.3
 notebook==6.0.1
-numpy==1.16.4
+numpy==1.22.0
 oauth2client==3.0.0
 oauthlib==3.1.0
 opencv-python==4.1.1.26
